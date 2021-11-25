@@ -1,0 +1,7 @@
+* Régler bug sur changement de point d'origine quand on monte dans les ordonnées
+
+* Régler bug quand le dessin déborde sur le menu en haut ou les boutons en bas
+
+* Créer bouton Sauvegarger et Ouvrir qui ne marchait pas jusqu'à présent
+
+* Créer des lignes et une possibilité de dessine plus que des formes
